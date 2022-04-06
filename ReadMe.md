@@ -13,7 +13,10 @@ The image below shows the high level technical solution for this project.
 
 <h2>Demo</h2>
 
-[<img src="https://img.youtube.com/vi/VGzKFkUWID4/maxresdefault.jpg" width="80%">](https://youtu.be/VGzKFkUWID4)
+This is a 5 minute video that show cases the technical solution and results.
+
+[![Watch the video](https://img.youtube.com/vi/VGzKFkUWID4/maxresdefault.jpg)](https://youtu.be/VGzKFkUWID4)
+
 
 <h2>Data Sources</h2>
 

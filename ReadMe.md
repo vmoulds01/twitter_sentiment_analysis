@@ -8,6 +8,8 @@ I chose to focus my project on twitter data of the coronavirus to better underst
 
 The image below shows the high level technical solution for this project.
 
+The code for each of the steps noted in the diagram below is located in the [src/](src/) folder of this repository.
+
 ![TechnicalSolution](TechnicalSolution.png)
 
 
